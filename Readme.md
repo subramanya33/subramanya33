@@ -25,4 +25,4 @@ I enjoy building scalable applications, applying AI models to solve real problem
 
 ## 📫 Connect with Me
 - **Leetcode** - https://leetcode.com/u/HeCodesss/
-- **Resume** 
+- **Resume** - https://github.com/subramanya33/Readme.md/blob/main/4MT21AI058.pdf
