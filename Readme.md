@@ -5,7 +5,7 @@
 📍 Mangalore Institute of Technology & Engineering, Moodbidri  
 
 ## 💻 Skills
-- **Languages:** Java, Python, C, PHP, SQL  
+- **Languages:** Java, Python, C, PHP 
 - **Frameworks/Tools:** Flutter, TensorFlow, Express.js
 - **Cloud:** Google Cloud Platform, FireBase
 - **DataBase:** MySQL, FireStore, MongoDB
@@ -19,4 +19,4 @@
 - **Campus Connect**(Flutter + Node.js + MongoDB)
 
 ## 📫 Connect with Me
-- [Leetcode](link in bio)  
+- **https://leetcode.com/u/HeCodesss/
