@@ -7,8 +7,8 @@
 ## 💻 Skills
 - **Languages:** Java, Python, C, PHP, SQL  
 - **Frameworks/Tools:** Flutter, TensorFlow, Express.js
---**Cloud:** Google Cloud Platform, FireBase
---**DataBase:** MySQL, FireStore, MongoDB
+- **Cloud:** Google Cloud Platform, FireBase
+- **DataBase:** MySQL, FireStore, MongoDB
 - **Other Tools:** GitHub, VS Code, Android Studio, AI IDEs
 
 ## 🚀 Projects
