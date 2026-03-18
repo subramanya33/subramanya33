@@ -1,30 +1,71 @@
+# 👋 Hi, I’m Subramanya Poojary
 
-# 👋 Hi, I’m Subramanya Poojary  
+## 🧠 About Me
 
-## 📝 Summary  
-I am skilled in both **Software Engineering** and **Machine Learning**, with hands-on experience in **backend development, mobile app development, and AI/ML projects**.  
-I’ve completed **two internships** where I worked on real-world applications in **Java, Node.js, PHP, and cloud technologies**.  
-I enjoy building scalable applications, applying AI models to solve real problems, and continuously learning new technologies.  
+I am passionate about **Software Engineering and Machine Learning**.
+I enjoy building **scalable backend systems, mobile apps, and AI-powered solutions**.
 
-🎓 B.E in Artificial Intelligence & Machine Learning  
-📍 Mangalore Institute of Technology & Engineering, Moodbidri  
+✔️ 2 Internships (Backend + Android Development)
+✔️ Strong real-world project experience
+✔️ Focused on AI + system design
 
-## 💻 Skills
-- **Languages:** Java, Python, C, PHP 
-- **Frameworks/Tools:** Flutter, TensorFlow, Express.js
-- **Cloud:** Google Cloud Platform, FireBase
-- **DataBase:** MySQL, FireStore, MongoDB
-- **Other Tools:** GitHub, VS Code, Android Studio, AI IDEs
+🎓 B.E in Artificial Intelligence & Machine Learning
+📍 Mangalore Institute of Technology & Engineering
+
+---
+
+## 🚀 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,php" />
+</p>
+
+## ⚙️ Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,tensorflow,nodejs,mysql,mongodb,firebase,gcp,linux,git,github" />
+</p>
+
+## 🛠 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio" />
+</p>
+
+---
 
 ## 🚀 Projects
-- **Virtual Try-On** (Flask + PoseNet/OpenPose + OpenCV + MongoDB)  
-- **Heatwave Prediction** (LSTM model using Python & TensorFlow)  
-- **Automobile Review System** (Backend with Node.js + MySQL)  
-- **Grievance Management App** (Java + Firebase)  
-- **Campus Connect** (Flutter + Node.js + MongoDB)
 
-## 📫 Connect with Me
-- **Leetcode** - https://leetcode.com/u/HeCodesss/
-- **Resume** - https://github.com/subramanya33/subramanya33/blob/main/4MT21AI058.pdf
+🔹 **Virtual Try-On System**
+→ AR-based outfit try-on using PoseNet + OpenCV
 
+🔹 **Heatwave Prediction**
+→ LSTM-based deep learning model for climate forecasting
 
+🔹 **Automobile Review System**
+→ Backend built with Node.js + MySQL
+
+🔹 **Grievance Management App**
+→ Android app using Firebase
+
+🔹 **Campus Connect**
+→ Full-stack app (Flutter + Node.js + MongoDB)
+
+---
+
+## 📊 GitHub Stats
+
+![Subramanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=subramanya33\&show_icons=true\&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subramanya33\&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+* 💻 LeetCode: https://leetcode.com/u/HeCodesss/
+* 📄 Resume: https://github.com/subramanya33/subramanya33/blob/main/4MT21AI058.pdf
+
+---
+
+⭐ *“Building real-world solutions with code and AI.”*
