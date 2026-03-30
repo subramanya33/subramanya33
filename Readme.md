@@ -64,7 +64,7 @@ I enjoy building **scalable backend systems, mobile apps, and AI-powered solutio
 ## 📫 Connect With Me
 
 * 💻 LeetCode: https://leetcode.com/u/HeCodesss/
-* 📄 Resume: https://github.com/subramanya33/subramanya33/blob/main/4MT21AI058.pdf
+* 📄 Resume: https://github.com/subramanya33/subramanya33/blob/main/Subramanya_20260302_212440_0000.pdf
 
 ---
 
